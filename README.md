@@ -1,2 +1,2 @@
-# solo
+# sozo
 sozo
